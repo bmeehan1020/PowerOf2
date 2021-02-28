@@ -47,11 +47,123 @@
                         {
                             'selector': '#node-2',
                             'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-3',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-4',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-5',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-6',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-7',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-8',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-9',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-10',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-11',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-12',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-13',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-14',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-15',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-16',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-17',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-18',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-19',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-20',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-21',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-22',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-23',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-24',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-25',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-26',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-27',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-28',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-29',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-30',
+                            'opacity': [0, 0]
                         }
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '150%',
+                    'duration': '100%',
                     'animations': [
                         {
                             'selector': '#node-0',
@@ -59,7 +171,7 @@
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '150%',
+                    'duration': '100%',
                     'animations': [
                         {
                             'selector': '#node-1',
@@ -67,6 +179,133 @@
                         },
                         {
                             'selector': '#node-2',
+                            'opacity': [0, 1]
+                        }
+                    ]
+                }, {
+                    'wrapper': '#tree',
+                    'duration': '150%',
+                    'animations': [
+                        {
+                            'selector': '#node-3',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-4',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-5',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-6',
+                            'opacity': [0, 1]
+                        }
+                    ]
+                }, {
+                    'wrapper': '#tree',
+                    'duration': '150%',
+                    'animations': [
+                        {
+                            'selector': '#node-7',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-8',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-9',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-10',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-11',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-12',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-13',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-14',
+                            'opacity': [0, 1]
+                        }
+                    ]
+                }, {
+                    'wrapper': '#tree',
+                    'duration': '150%',
+                    'animations': [
+                        {
+                            'selector': '#node-15',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-16',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-17',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-18',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-19',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-20',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-21',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-22',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-23',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-24',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-25',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-26',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-27',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-28',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-29',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-30',
                             'opacity': [0, 1]
                         }
                     ]
