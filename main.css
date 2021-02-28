@@ -6,7 +6,7 @@ div {
 }
 
 body {
-  background: #fff;
+  background: #55acee;
   font: 24px/1.6 "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -33,7 +33,7 @@ ul {
   top: 10%;
   left: 10%;
   width: 80%;
-  /* color: #fff; */
+  color: #fff;
   text-align: center;
   text-transform: uppercase;
 }
@@ -47,10 +47,9 @@ ul {
 
 .tree-list {
   position: fixed;
-  width: 100%;
-  top: 100%;
-  left: 50%;
+  left: 45%;
   right: auto;
+  top: 90%;
   opacity: 0;
 }
 
@@ -58,20 +57,26 @@ ul {
   position: absolute;
   width: 60px;
   height: 60px;
-  background-color: lightskyblue;
+  border-radius: 100%;
+  background-color: #fff;
 }
 
-#title {
+#node-0 {
+  top: 0;
+  left: 70px;
+}
+
+.title {
   position: fixed;
-  top: 75%;
+  top: 70%;
   width: 100%;
-  /* color: #fff; */
+  color: #fff;
   text-align: center;
   text-transform: uppercase;
 }
 
 #name {
-  font-size: 60px;
+  font-size: 120px;
   letter-spacing: 12px;
   line-height: 1.5;
   font-weight: bold;

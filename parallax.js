@@ -29,12 +29,16 @@
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '100%',
+                    'duration': '150%',
                     'animations': [
                         {
                             'selector': '.tree-list',
                             'translateY': '-80%',
-                            'opacity': [0, 1] // hack to accelrate opacity speed
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '.title',
+                            'opacity': [0, 0]
                         }
                     ]
                 }, {
@@ -46,24 +50,13 @@
                         }
                     ]
                 }, {
-                    'wrapper': '#title',
-                    'duration': '100%',
+                    'wrapper': '#tree',
+                    'duration': '500%',
                     'animations': [
                         {
-                            'selector': '#name',
-                            'translateY': -140,
-                            'opacity': [0, 1],
-                        }
-                    ]
-                }, {
-                    'wrapper': '#title',
-                    'duration': '100%',
-                    'animations': [
-                        {
-                            'selector': '#name',
-                            'translateX': 50,
-                            'translateY': 100,
-                            'opacity': [1, 0],
+                            'selector': '.title',
+                            'scale': [0.5, 1],
+                            'opacity': [0, 1]
                         }
                     ]
                 }
