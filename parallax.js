@@ -39,6 +39,14 @@
                         {
                             'selector': '.title',
                             'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-1',
+                            'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '#node-2',
+                            'opacity': [0, 0]
                         }
                     ]
                 }, {
@@ -47,6 +55,19 @@
                     'animations': [
                         {
                             'selector': '#node-0',
+                        }
+                    ]
+                }, {
+                    'wrapper': '#tree',
+                    'duration': '150%',
+                    'animations': [
+                        {
+                            'selector': '#node-1',
+                            'opacity': [0, 1]
+                        },
+                        {
+                            'selector': '#node-2',
+                            'opacity': [0, 1]
                         }
                     ]
                 }, {

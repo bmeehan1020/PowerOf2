@@ -49,21 +49,35 @@ ul {
   position: fixed;
   left: 45%;
   right: auto;
-  top: 90%;
+  top: 80%;
   opacity: 0;
 }
 
 .node {
   position: absolute;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   border-radius: 100%;
-  background-color: #fff;
 }
 
 #node-0 {
   top: 0;
-  left: 70px;
+  left: 0;
+  background: url("node-0.png");
+  background-size: 100%;
+}
+
+#node-1 {
+  top: 120px;
+  left: -300px;
+  background: url("node-1.png");
+  background-size: 100%;
+}
+
+#node-2 {
+  top: 120px;
+  left: 300px;
+  background-color: #fff;
 }
 
 .title {
