@@ -1,3 +1,8 @@
+/* Parallax Logic from Dave Gamache
+https://medium.com/@dhg/parallax-done-right-82ced812e61c
+https://github.com/dhg/davegamache/tree/master/parallax
+*/
+
 (function () {
     $(function () {
 
@@ -171,7 +176,7 @@
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '100%',
+                    'duration': '200%',
                     'animations': [
                         {
                             'selector': '#node-1',
@@ -184,7 +189,7 @@
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '150%',
+                    'duration': '200%',
                     'animations': [
                         {
                             'selector': '#node-3',
@@ -205,7 +210,7 @@
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '150%',
+                    'duration': '200%',
                     'animations': [
                         {
                             'selector': '#node-7',
@@ -242,7 +247,7 @@
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '150%',
+                    'duration': '200%',
                     'animations': [
                         {
                             'selector': '#node-15',
@@ -311,11 +316,11 @@
                     ]
                 }, {
                     'wrapper': '#tree',
-                    'duration': '500%',
+                    'duration': '400%',
                     'animations': [
                         {
                             'selector': '.title',
-                            'scale': [0.5, 1],
+                            'scale': [0, 1],
                             'opacity': [0, 1]
                         }
                     ]
