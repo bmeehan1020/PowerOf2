@@ -314,15 +314,18 @@ ul {
 
 .logos {
   position: fixed;
-  top: 80%;
-  width: 100%;
+  top: 85%;
+  left: 25%;
   color: #fff;
   text-transform: uppercase;
-  display: inline;
-  align-items: center;
+}
+
+#thanks {
+  margin: 0 auto;
 }
 
 .logo-list {
+  margin: 0 auto;
   display: flex;
 }
 

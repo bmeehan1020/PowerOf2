@@ -334,7 +334,7 @@ https://github.com/dhg/davegamache/tree/master/parallax
                     'animations': [
                         {
                             'selector': '.logos',
-                            'scale': [.5, 1],
+                            'translateY': '-10%',
                             'opacity': [0, 1]
                         }
                     ]
