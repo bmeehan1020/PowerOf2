@@ -164,6 +164,10 @@ https://github.com/dhg/davegamache/tree/master/parallax
                         {
                             'selector': '#node-30',
                             'opacity': [0, 0]
+                        },
+                        {
+                            'selector': '.logos',
+                            'opacity': [0, 0]
                         }
                     ]
                 }, {
@@ -320,7 +324,17 @@ https://github.com/dhg/davegamache/tree/master/parallax
                     'animations': [
                         {
                             'selector': '.title',
-                            'scale': [0, 1],
+                            'translateY': '-10%',
+                            'opacity': [0, 1]
+                        }
+                    ]
+                }, {
+                    'wrapper': '#tree',
+                    'duration': '400%',
+                    'animations': [
+                        {
+                            'selector': '.logos',
+                            'scale': [.5, 1],
                             'opacity': [0, 1]
                         }
                     ]

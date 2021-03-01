@@ -298,7 +298,7 @@ ul {
 
 .title {
   position: fixed;
-  top: 55%;
+  top: 60%;
   width: 100%;
   color: #fff;
   text-align: center;
@@ -310,4 +310,27 @@ ul {
   letter-spacing: 12px;
   line-height: 1.5;
   font-weight: bold;
+}
+
+.logos {
+  position: fixed;
+  top: 80%;
+  width: 100%;
+  color: #fff;
+  text-transform: uppercase;
+  display: inline;
+  align-items: center;
+}
+
+.logo-list {
+  display: flex;
+}
+
+.logo-list img {
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  border-radius: 10%;
+  display: inline;
+  margin-left: 24px;
 }
